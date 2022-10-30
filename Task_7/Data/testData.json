@@ -1,0 +1,11 @@
+{
+    "token": "d9zSAspodxSbmXVRWzF2mQ",
+    "parameters": {
+        "code": 200
+    },
+    "data": {
+        "user_name": "nameFirst",
+        "user_email": "internetEmail",
+        "_repeat": 5
+    }
+}
